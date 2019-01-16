@@ -1,5 +1,5 @@
 # Faceting
-
+#Line for Test2Documentation
 SolrNet supports [faceted searching](http://wiki.apache.org/solr/SolrFacetingOverview).
 
 There are basically three kinds of facet queries:
