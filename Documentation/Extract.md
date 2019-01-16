@@ -1,5 +1,5 @@
 # Binary document upload
-
+#hello world
 SolrNet supports Solr "extract" feature (a.k.a. Solr "Cell") to index data from binary document formats such as Word, PDF, etc.
 
 Here's a simple example showing how to extract text from a PDF file, without indexing it:
