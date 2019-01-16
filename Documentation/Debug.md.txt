@@ -1,0 +1,2 @@
+#Debug explain
+Solr provides information for debugging purpose. SolrNet exposes the debug-explain hwn debugQuere=true command is passed
